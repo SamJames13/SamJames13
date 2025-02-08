@@ -4,5 +4,5 @@
 - 🤓 I am majoring in Computer Science with a Minor in Honors Interdisciplinary Studies
 - 💭 I am interested in full-stack web development, human-computer interfaces, and creating tech to improve our quality of life
 - 💻 I am a future full-stack software developer at LPL Financial
-- 🚶‍♀️ I enjoy being outside, going to the beach, working out, art, traveling, and drinking coffee!
+- 🏖️ I enjoy being outside, going to the beach, working out, art, traveling, and drinking coffee!
 - 💜 I am excited to collaborate on some amazing projects!
